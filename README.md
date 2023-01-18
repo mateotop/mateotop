@@ -55,8 +55,8 @@
 
   <p>
       <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
-      <a><img alt="Notion" src="https://img.shields.io/badge/Obsidian-483699.svg?logo=obsidian&logoColor=white"></a>
-      <a><img alt="OneNote" src="https://img.shields.io/badge/OneNote-7719AA.svg?logo=MicrosoftOneNote&logoColor=white"></a>
+      <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Obsidian-483699.svg?logo=obsidian&logoColor=white"></a>
+      <a href="#"><img alt="OneNote" src="https://img.shields.io/badge/OneNote-7719AA.svg?logo=MicrosoftOneNote&logoColor=white"></a>
       <br>
       <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"></a>
