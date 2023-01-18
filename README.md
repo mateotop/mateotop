@@ -13,7 +13,6 @@
     </a>
 </details>
 
-<br>
 <!-- My Favorite Tools -->
 
 
@@ -146,7 +145,7 @@ And also useful resources:
 https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 
-Inpired by:
+Inspired by:
 1. https://github.com/zumrudu-anka/zumrudu-anka/blob/master/README.md
 2. https://github.com/DenverCoder1/DenverCoder1/blob/main/README.md
 
