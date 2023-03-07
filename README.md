@@ -6,6 +6,17 @@
        alt="Greeting text. Hello, I'm Mateo. Nice to meet you. Probably text is blue color and font size is 30">
 </h3>
 
+<p>I rather use my local git server. Although, I have a private backup of my mono-repository with my home scripts in GitHub.
+</p> 
+<br>Probably, I will push some of my projects in public repos, but before I will:
+<ul>
+  <li> Add some documentations or at least README files </li>
+  <li> Delete and translate some private information for public (env variables, tokens, comments etc.)</li>
+  <li> Host web projects on own domain and server [ GitHub Pages | DigitalOcean | Selectel ]. </li>
+ </ul>
+   
+  
+
 <details open>
     <summary><h2>Contacts:</h2></summary>
     <a href="https://t.me/matveyi01">
@@ -34,7 +45,7 @@
       <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a> 
       <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
       <br>
-      <a href="#"><img alt="GoLang" src="https://custom-icon-badges.demolab.com/badge/Playing%20with%20Go-00ADD8.svg?logo=Go&logoColor=white"></a>
+<!--       <a href="#"><img alt="GoLang" src="https://custom-icon-badges.demolab.com/badge/Playing%20with%20Go-00ADD8.svg?logo=Go&logoColor=white"></a> -->
       <!-- 
       <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
       -->
@@ -90,7 +101,7 @@
 
 <!-- Stats -->
 
-<details>
+<!-- <details>
     <summary><h2>📊 Stats<h2></summary>
     <br>
     <h3>👅 Programming Languages from my public GitHub Repos</h3>
@@ -111,7 +122,10 @@
     <img align="right" 
     width=390 
     src="https://github-readme-stats.vercel.app/api?username=mateotop&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </div>
+  </div> -->
+      
+<!--        -->
+      
 <!--     <br><br><br>
     <br><br><br>
     <br>
