@@ -8,7 +8,7 @@
        alt="Greeting text. Hello, I'm Mateo. Nice to meet you.">
 </h3>
 
-<p> I like software, designing and customizing different useful things. 
+<p> I like software, manufacturing, designing and customizing different useful things. 
 
 My public web projects can be found here: https://mateotop.github.io/projects-web
 
