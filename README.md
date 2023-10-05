@@ -1,17 +1,20 @@
 <h1>MateoTop </h1>
 
+- [На русском](Russian-README.md)
+
 <h3>
   <img 
        src="https://readme-typing-svg.herokuapp.com/?weight=900&size=30&duration=2000&pause=1000&color=36BCF7FF&center=false&width=435&lines=Hello%2C+There!+👋;This+is+Mateo+Top;Nice+to+meet+you" 
-       alt="Greeting text. Hello, I'm Mateo. Nice to meet you. Probably text is blue color and font size is 30">
+       alt="Greeting text. Hello, I'm Mateo. Nice to meet you.">
 </h3>
 
-<p>I rather use my local git server. Although, I publish something nice and clumsy here
+<p> I like software, designing and customizing different useful things. 
 
+My public web projects can be found here: https://mateotop.github.io/projects-web
 
 <details open>
     <summary><h2>📫 How to reach me:</h2></summary>
-    <a href="https://t.me/matveyi01">
+    <a href="https://t.me/mateotop">
         <img alt="Telegram" src="https://img.shields.io/badge/My%20Telegram-26A5E4.svg?logo=Telegram&logoColor=white">
     </a>
 </details>
