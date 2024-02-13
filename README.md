@@ -1,6 +1,6 @@
 <h1>MateoTop </h1>
 
-- [На русском](Russian-README.md)
+<!-- - [На русском](Russian-README.md) -->
 
 <h3>
   <img 
