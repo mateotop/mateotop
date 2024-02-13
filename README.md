@@ -4,7 +4,7 @@
 
 <h3>
   <img 
-       src="https://readme-typing-svg.herokuapp.com/?weight=900&size=30&duration=2000&pause=1000&color=36BCF7FF&center=false&width=435&lines=Hello%2C+There!+👋;This+is+Mateo+Top;Nice+to+meet+you" 
+       src="https://readme-typing-svg.herokuapp.com/?weight=900&size=30&duration=2000&pause=1000&color=36BCF7FF&center=false&width=435&lines=Hello%2C+There!+👋;This+is+Mateo;Nice+to+meet+you" 
        alt="Greeting text. Hello, I'm Mateo. Nice to meet you.">
 </h3>
 
