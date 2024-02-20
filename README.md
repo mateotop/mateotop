@@ -10,7 +10,7 @@
 
 <p> I like software, manufacturing, designing and customizing different useful things. 
 
-My public web projects can be found here: https://mateotop.github.io/projects-web
+<!-- My public web projects can be found here: https://mateotop.github.io/projects-web -->
 
 <details open>
     <summary><h2>📫 How to reach me:</h2></summary>
